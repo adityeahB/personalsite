@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+:root {
+  --bold: #2f3fe0;
+  --on-bold: #ffffff;
+  --ink: #141414;
+  --muted: #6b6b6b;
+  --line: #e8e8e8;
+  --bg: #ffffff;
+  --font: 'DM Sans', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+body {
+  font-family: var(--font);
+  color: var(--ink);
+  background: var(--bg);
+  line-height: 1.65;
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background-color: var(--bold);
+  color: var(--on-bold);
+}

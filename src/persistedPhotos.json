@@ -1,0 +1,23 @@
+{
+  "portrait": "",
+  "leve": "https://i.imgur.com/cKKdKKd.jpeg",
+  "rowbot": "https://i.imgur.com/uzqfWRP.png",
+  "certificates": {
+    "cert-1": "https://i.imgur.com/NRghSNU.png",
+    "cert-2": "https://i.imgur.com/I7JRRJL.png",
+    "cert-3": "https://i.imgur.com/4cz47b5.png",
+    "cert-4": "https://i.imgur.com/IZPJlde.png",
+    "cert-6": "https://i.imgur.com/sc6DveV.png",
+    "cert-8": "https://i.imgur.com/7pJf7M9.png"
+  },
+  "artworks": {
+    "art-1": "https://i.imgur.com/3f4efqo.png",
+    "art-2": "https://i.imgur.com/09jVp96.jpeg",
+    "art-3": "https://i.imgur.com/P8s3Sq9.jpeg",
+    "art-4": "https://i.imgur.com/umWRSLc.jpeg",
+    "art-5": "https://i.imgur.com/FmK9yJx.jpeg",
+    "art-6": "https://i.imgur.com/zIp3qXS.jpeg",
+    "art-7": "https://i.imgur.com/kKdwtk1.png",
+    "art-8": "https://i.imgur.com/qiKQBAF.jpeg"
+  }
+}
