@@ -34,7 +34,7 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ accentColor, onO
         {/* Contact actions (no email ID displayed) */}
         <div className="flex flex-wrap items-center gap-4 my-8">
           <a
-            href="https://www.linkedin.com"
+            href="www.linkedin.com/in/aditya-neil-banerjee-9567b9381"
             target="_blank"
             rel="noreferrer"
             className="inline-flex items-center gap-2 px-6 py-3 rounded-lg bg-white text-gray-900 font-semibold text-sm hover:bg-gray-100 transition shadow-md hover:scale-[1.02]"
@@ -55,12 +55,12 @@ export const ContactSection: React.FC<ContactSectionProps> = ({ accentColor, onO
         {/* Project Links */}
         <div className="flex gap-7 mt-12 flex-wrap text-base font-medium">
           <a
-            href="https://www.linkedin.com"
+            href="www.in.com/in/aditya-neil-banerjee-9567b9381"
             target="_blank"
             rel="noreferrer"
             className="opacity-85 hover:opacity-100 hover:underline underline-offset-6 transition"
           >
-            LinkedIn
+            In
           </a>
           <a
             href="https://www.deleve.eu"
