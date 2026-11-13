@@ -59,7 +59,7 @@ export const Hero: React.FC<HeroProps> = ({ accentColor, portraitSrc }) => {
         <div className="flex justify-center md:justify-end relative group">
           <div className="w-full max-w-[340px] sm:max-w-[380px] aspect-[4/5] rounded-lg overflow-hidden shadow-2xl relative bg-black/15 border border-white/10 block">
             <a
-              href={PHOTO_EXTERNAL_LINK}
+              href={www.linkedin.com/in/aditya-neil-banerjee-9567b9381}
               target="_blank"
               rel="noopener noreferrer"
               title="Open external link (opens in a new tab)"
