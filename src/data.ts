@@ -15,7 +15,7 @@ export const LEVE_IMAGE = persistedPhotos.leve || 'https://i.imgur.com/cKKdKKd.j
 export const ROWBOT_IMAGE = persistedPhotos.rowbot || 'https://i.imgur.com/uzqfWRP.png';
 
 // Change this URL to whichever external website, portfolio, or profile you want the photo to link to:
-export const PHOTO_EXTERNAL_LINK = 'https://www.linkedin.com';
+export const PHOTO_EXTERNAL_LINK = 'https://www.linkedin.com/in/aditya-neil-banerjee-9567b9381/';
 
 export const THEME_OPTIONS: ThemeOption[] = [
   { id: 'cobalt', name: 'Royal Cobalt', color: '#2f3fe0', onColor: '#ffffff' },
